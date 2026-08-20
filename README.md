@@ -14,8 +14,8 @@ A WhatsApp bot built with [Baileys](https://github.com/WhiskeySockets/Baileys), 
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd satria-bot
+git clone https://github.com/00-ms/Satria-bot.git
+cd Satria-bot
 npm install
 cp .env.example .env
 ```
